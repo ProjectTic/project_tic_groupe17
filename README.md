@@ -3,7 +3,7 @@ project for Tic
 Id groupe 17
 # ours full name #
 Nassradine Ahmat Annour
-Djelili Malack Kaouter
+Djelili Malak Kaouter
 Medani Hiba 
 Amrani Nessrine
 Badache Yasmine
